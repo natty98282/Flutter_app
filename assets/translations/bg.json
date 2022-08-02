@@ -1,0 +1,34 @@
+{
+    "side_welcome": "እንኳዕ ደሓን መፁ",
+    "language_head": "ቋንቋ ምረጽ",
+    "exit_btn": "መውፅኢ",
+    "log_email_hint": "ኢመይልካ ኣእቱ",
+    "log_password_hint": "ናትኩም ኣእትዉ",
+    "login_button": "እቶ",
+    "ask_account": "ኣካውንት የብልካን?? ",
+    "sinup_link": "ተመዝገቡ።",
+    "f_name": "ናይ መጀመርታ ሽም",
+    "l_name": "ናይ መወዳእታ ሽም",
+    "input_email": "ኢመይል",
+    "input_password": "መሕለፊ ቓል",
+    "confirm_password": "ምልክት ቃል ኣረጋግጽ",
+    "register_btn": "ተመዝገቡ።",
+    "main_menu": "ቀንዲ ዝርዝር መግቢ",
+    "main_welcome": "እንኳዕ ደሓን መፁ",
+    "home_btn": "ቀዳማይ ገጽ",
+    "milk_check_btn":"ጽሬት ጸባ ምፍታሽ",
+    "honey_check_btn": "ጽሬት መዓር ምፍታሽ",
+    "stored_data": "ዝተዓቀበ መረዳእታ ምልክት ግበሩ",
+    "settings_btn": "ቅጥዕታት",
+    "logout_btn": "ውጽእ",
+    "milk_ph_input": "PH ዝብል ኣእትዉ",
+    "milk_conductivity_input":"ዋጋ መተሓላለፊ ኣእቱ",
+    "milk_light_value": "ናይ ብርሃን ምምጣጥ ዋጋ ኣእቱ",
+    "milk_gas_value": "ናይ ጋዝ ሴንሰር ዋጋ ኣእቱ",
+    "milk_snf_value": "ናይ SNF ዋጋ ኣእቱ",
+    "milk_predict_button": "ፅሬት ምግማት"
+
+
+
+
+}

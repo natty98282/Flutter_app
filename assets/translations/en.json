@@ -1,0 +1,33 @@
+{
+    "side_welcome": "Welcome",
+    "language_head": "Choose Language",
+    "exit_btn": "Exit",
+    "log_email_hint": "Enter your Email",
+    "log_password_hint": "Enter your Password",
+    "login_button": "Login",
+    "ask_account": "Don't have an account? ",
+    "sinup_link": "SignUp",
+    "f_name": "First Name",
+    "l_name": "Last Name",
+    "input_email": "Email",
+    "input_password": "Password",
+    "confirm_password": "Confirm Password",
+    "register_btn": "SignUp",
+    "main_menu": "Main Menu",
+    "main_welcome": "Welcome",
+    "home_btn": "Home",
+    "milk_check_btn":"Check Milk Quality",
+    "honey_check_btn": "Check Honey Quality",
+    "stored_data": "Check Stored Data",
+    "settings_btn": "Settings",
+    "logout_btn": "Logout",
+    "milk_ph_input": "Enter PH Value",
+    "milk_conductivity_input":"Enter Conductivity Value",
+    "milk_light_value": "Enter Light Absorbtion Value",
+    "milk_gas_value": "Enter Gass Sensor value",
+    "milk_snf_value": "Enter SNF Value",
+    "milk_predict_button": "Predict Quality"
+
+
+
+}

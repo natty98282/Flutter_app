@@ -1,0 +1,34 @@
+{
+    "side_welcome": "Soo dhawoow",
+    "language_head": "Dooro Luuqad",
+    "exit_btn": "Ka bax",
+    "log_email_hint": "Geli iimaylkaga",
+    "log_password_hint": "Geli eraygaaga sirta ah",
+    "login_button": "Soo gal",
+    "ask_account": "xisaab ma leedahay? ",
+    "sinup_link": "saxiix",
+    "f_name": "Magaca koowaad",
+    "l_name": "Magaca Dambe",
+    "input_email": "iimaylka",
+    "input_password": "Furaha",
+    "confirm_password": "Xaqiiji erayga sirta ah",
+    "register_btn": "saxiix",
+    "main_menu": "Menu-ga ugu weyn",
+    "main_welcome": "Soo dhawoow",
+    "home_btn": "Guriga",
+    "milk_check_btn":"Hubi tayada caanaha",
+    "honey_check_btn": "Check Honey Quality",
+    "stored_data": "Hubi tayada Malabka",
+    "settings_btn": "Dejinta",
+    "logout_btn": "Ka bax",
+    "milk_ph_input": "Geli PH Qiimaha",
+    "milk_conductivity_input":"Geli Qiimaha Anshaxa",
+    "milk_light_value": "Geli Qiimaha Nuugista Iftiinka",
+    "milk_gas_value": "Geli qiimaha Sensor-ka Gaas",
+    "milk_snf_value": "Geli Qiimaha SNF",
+    "milk_predict_button": "Saadaali tayada"
+
+
+
+
+}

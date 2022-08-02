@@ -1,0 +1,34 @@
+{
+    "side_welcome": "baga nagaan dhuftan",
+    "language_head": "afaan filachuu",
+    "exit_btn": "ba'uu",
+    "log_email_hint": "email keessan galchaajecha icciitii keessan galchaa",
+    "log_password_hint": "jecha icciitii keessan galchaa",
+    "login_button": "seensaa",
+    "ask_account": "herrega hin qabduu? ",
+    "sinup_link": "galmaa'uu",
+    "f_name": "maqaa jalqabaa",
+    "l_name": "maqaa abbaa",
+    "input_email": "email jedhu",
+    "input_password": "jecha icciitii",
+    "confirm_password": "jecha icciitii mirkaneessuu",
+    "register_btn": "Mallatteessi",
+    "main_menu": "menu ijoo",
+    "main_welcome": "baga nagaan dhufte",
+    "home_btn": "fuula jalqabaa",
+    "milk_check_btn":"qulqullina aannan ilaaluu",
+    "honey_check_btn": "qulqullina damma ilaaluu",
+    "stored_data": "Deetaa Kuufame ilaali",
+    "settings_btn": "haala",
+    "logout_btn": "Ba'uu",
+    "milk_ph_input": "Gatii PH galchi",
+    "milk_conductivity_input":"Gatii Dabarsummaa galchi",
+    "milk_light_value": "Gatii Xuuxuu Ifaa galchi",
+    "milk_gas_value": "Gatii Sensara Gaasii galchi",
+    "milk_snf_value": "Gatii SNF galchi",
+    "milk_predict_button": "Qulqullina Tilmaama"
+
+
+
+
+}
